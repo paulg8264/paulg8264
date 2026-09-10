@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Paul (@paulg8264) 👋
 
-<!--
-**paulg8264/paulg8264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps engineer based in Paris. Spending most days setting up CI/CD pipelines, debugging production clusters, and automating cloud infrastructure.
 
-Here are some ideas to get you started:
+#### What I'm into:
+- Building robust infra-as-code patterns with Terraform.
+- Container orchestration and platform tooling (Kubernetes, Docker).
+- Writing Bash scripts when code is overkill and Python when Bash gets messy.
+- Currently digging into eBPF and GitOps workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Daily Drivers & Tools:
+- **OS & Scripting:** Linux (Debian/Ubuntu/Alpine), Bash
+- **Containers & Orchestration:** Docker, Kubernetes, Helm
+- **IaC & CI/CD:** Terraform, GitHub Actions, Ansible
+- **Cloud & Observability:** AWS, Prometheus, Grafana
+
+#### Reach Out:
+- LinkedIn: linkedin.com/in/paulg8264
+- Email: paul@paulg.dev
+- Open for collaboration on open-source DevOps tooling or local Paris tech meetups.
